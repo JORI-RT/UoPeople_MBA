@@ -1,0 +1,38 @@
+{
+    "FW":{
+        "role":[
+            "impromvement providing value",
+            "organize providing value"
+        ],
+        "decipline":{
+            "visualization":"",
+            "bujdet_controle":{
+                "Budgeting":"",
+                "Budget_Distribution":"",
+                "Forecast_and_actual_analyze":""
+            },
+            "cost_optimization":{
+                "understanding of TCO and usage of APP":"",
+                "optimization of infra,vender,datacenter": "",
+                "optimization_of_APP":""
+            },
+            "improvement_relationship_SH":""
+        }
+            
+    },
+    "taxonomy": {
+        "costpool": "",
+        "tower":"",
+        "solusion":"",
+        "user_department":""
+    },
+    "model":{
+
+    },
+    "metrics":{
+        "cost_effetive":"",
+        "align_for_business":"",
+        "inovation_investment":"",
+        
+    }
+}
